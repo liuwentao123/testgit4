@@ -15,5 +15,6 @@ public class Test {
         System.out.println("t2");
         System.out.println("t3");
         System.out.println("t5");
+        System.out.println("t6");
     }
 }
