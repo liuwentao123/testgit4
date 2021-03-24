@@ -10,5 +10,7 @@ public class Test {
         System.out.println(2);
         System.out.println("m1");
         System.out.println("t3");
+        System.out.println("m4");
+        System.out.println("t4");
     }
 }
