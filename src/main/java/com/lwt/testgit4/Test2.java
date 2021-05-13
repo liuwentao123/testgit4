@@ -6,6 +6,6 @@ package com.lwt.testgit4;
 
 public class Test2 {
     public static void main(String[] args) {
-        System.out.println("m201");
+        System.out.println("t41");
     }
 }
