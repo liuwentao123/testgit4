@@ -8,5 +8,6 @@ public class Test2 {
     public static void main(String[] args) {
         System.out.println("t41");
         System.out.println("t51");
+        System.out.println("t61");
     }
 }
